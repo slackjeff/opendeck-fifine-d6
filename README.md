@@ -45,7 +45,7 @@ Windows builds are provided, but hardware testing and maintenance may be limited
 
 ## Installation
 
-1. Download the latest plugin package from the [Releases](https://github.com/shugotekitten/opendeck-ampgd6/releases) page.
+1. Download the latest plugin package from the [Releases](https://github.com/slackjeff/opendeck-fifine-d6/releases) page.
 2. Open **OpenDeck**.
 3. Go to **Plugins → Install from file**.
 4. Select the downloaded plugin archive.
